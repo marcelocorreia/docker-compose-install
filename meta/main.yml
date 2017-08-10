@@ -14,5 +14,4 @@ galaxy_info:
   - system
   - development
 
-dependencies:
-  - marcelocorreia.docker-install
+dependencies: []
